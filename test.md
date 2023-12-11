@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
+title: "测试"
+permalink: /about/测试/
 
 #测试

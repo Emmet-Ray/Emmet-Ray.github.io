@@ -2,7 +2,7 @@
 layout: post
 title:  "观《大话西游》有感"
 date:   2024-2-5
-category: thoughts after viewing
+categories: thoughts-after-viewing
 ---
 
 > 对一个人来说，外在与内在都重要。
